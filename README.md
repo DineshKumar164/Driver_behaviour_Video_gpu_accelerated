@@ -142,8 +142,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - your.email@example.com
-Project Link: [https://github.com/yourusername/driver-behavior-safety](https://github.com/yourusername/driver-behavior-safety)
+Your Name - kdineshkumarofficial@gmail.com
+Project Link: (https://github.com/DineshKumar164/Driver_behaviour_Video_gpu_accelerated)
 
 ---
 Made with ❤️ for safer roads
